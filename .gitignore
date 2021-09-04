@@ -1,6 +1,6 @@
 # Ignore the node_modules directory
 nepipatterns/node_modules/
-
+#
 
 # Ignore the build directory
 nepipatterns/build
